@@ -1,6 +1,6 @@
 # BARTOSH ANTON
 
-![asdf](css/img/1642759628_5-phonoteka-org-p-chernii-kvadratnii-fon-5.jpg)
+![](css/img/1642759628_5-phonoteka-org-p-chernii-kvadratnii-fon-5.jpg)
 
 ## Frontend student
 
