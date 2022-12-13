@@ -1,5 +1,7 @@
 # BARTOSH ANTON
 
+![](css/img/1642759628_5-phonoteka-org-p-chernii-kvadratnii-fon-5.jpg)
+
 ## Frontend student
 
 ## Contact information:
